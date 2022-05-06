@@ -7,41 +7,6 @@ references:
   commentId: N:ProjectoFinal___FP
   fullName: ProjectoFinal___FP
   nameWithType: ProjectoFinal___FP
-- uid: ProjectoFinal___FP.Form_TESTES
-  name: Form_TESTES
-  href: api/ProjectoFinal___FP.Form_TESTES.html
-  commentId: T:ProjectoFinal___FP.Form_TESTES
-  fullName: ProjectoFinal___FP.Form_TESTES
-  nameWithType: Form_TESTES
-- uid: ProjectoFinal___FP.Form_TESTES.#ctor(ProjectoFinal___FP.ProdutoAlimentar[],System.Windows.Forms.Form)
-  name: Form_TESTES(ProdutoAlimentar[], Form)
-  href: api/ProjectoFinal___FP.Form_TESTES.html#ProjectoFinal___FP_Form_TESTES__ctor_ProjectoFinal___FP_ProdutoAlimentar___System_Windows_Forms_Form_
-  commentId: M:ProjectoFinal___FP.Form_TESTES.#ctor(ProjectoFinal___FP.ProdutoAlimentar[],System.Windows.Forms.Form)
-  name.vb: Form_TESTES(ProdutoAlimentar(), Form)
-  fullName: ProjectoFinal___FP.Form_TESTES.Form_TESTES(ProjectoFinal___FP.ProdutoAlimentar[], System.Windows.Forms.Form)
-  fullName.vb: ProjectoFinal___FP.Form_TESTES.Form_TESTES(ProjectoFinal___FP.ProdutoAlimentar(), System.Windows.Forms.Form)
-  nameWithType: Form_TESTES.Form_TESTES(ProdutoAlimentar[], Form)
-  nameWithType.vb: Form_TESTES.Form_TESTES(ProdutoAlimentar(), Form)
-- uid: ProjectoFinal___FP.Form_TESTES.#ctor*
-  name: Form_TESTES
-  href: api/ProjectoFinal___FP.Form_TESTES.html#ProjectoFinal___FP_Form_TESTES__ctor_
-  commentId: Overload:ProjectoFinal___FP.Form_TESTES.#ctor
-  isSpec: "True"
-  fullName: ProjectoFinal___FP.Form_TESTES.Form_TESTES
-  nameWithType: Form_TESTES.Form_TESTES
-- uid: ProjectoFinal___FP.Form_TESTES.Dispose(System.Boolean)
-  name: Dispose(Boolean)
-  href: api/ProjectoFinal___FP.Form_TESTES.html#ProjectoFinal___FP_Form_TESTES_Dispose_System_Boolean_
-  commentId: M:ProjectoFinal___FP.Form_TESTES.Dispose(System.Boolean)
-  fullName: ProjectoFinal___FP.Form_TESTES.Dispose(System.Boolean)
-  nameWithType: Form_TESTES.Dispose(Boolean)
-- uid: ProjectoFinal___FP.Form_TESTES.Dispose*
-  name: Dispose
-  href: api/ProjectoFinal___FP.Form_TESTES.html#ProjectoFinal___FP_Form_TESTES_Dispose_
-  commentId: Overload:ProjectoFinal___FP.Form_TESTES.Dispose
-  isSpec: "True"
-  fullName: ProjectoFinal___FP.Form_TESTES.Dispose
-  nameWithType: Form_TESTES.Dispose
 - uid: ProjectoFinal___FP.frmConsultar
   name: frmConsultar
   href: api/ProjectoFinal___FP.frmConsultar.html
@@ -606,6 +571,32 @@ references:
   isSpec: "True"
   fullName: ProjectoFinal___FP.ProdutoProcessado.ValidadeProduto
   nameWithType: ProdutoProcessado.ValidadeProduto
+- uid: ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel
+  name: VerificarCarboHidratosSaudavel()
+  href: api/ProjectoFinal___FP.ProdutoProcessado.html#ProjectoFinal___FP_ProdutoProcessado_VerificarCarboHidratosSaudavel
+  commentId: M:ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel
+  fullName: ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel()
+  nameWithType: ProdutoProcessado.VerificarCarboHidratosSaudavel()
+- uid: ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel*
+  name: VerificarCarboHidratosSaudavel
+  href: api/ProjectoFinal___FP.ProdutoProcessado.html#ProjectoFinal___FP_ProdutoProcessado_VerificarCarboHidratosSaudavel_
+  commentId: Overload:ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel
+  isSpec: "True"
+  fullName: ProjectoFinal___FP.ProdutoProcessado.VerificarCarboHidratosSaudavel
+  nameWithType: ProdutoProcessado.VerificarCarboHidratosSaudavel
+- uid: ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel
+  name: VerificarLipidosSaudavel()
+  href: api/ProjectoFinal___FP.ProdutoProcessado.html#ProjectoFinal___FP_ProdutoProcessado_VerificarLipidosSaudavel
+  commentId: M:ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel
+  fullName: ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel()
+  nameWithType: ProdutoProcessado.VerificarLipidosSaudavel()
+- uid: ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel*
+  name: VerificarLipidosSaudavel
+  href: api/ProjectoFinal___FP.ProdutoProcessado.html#ProjectoFinal___FP_ProdutoProcessado_VerificarLipidosSaudavel_
+  commentId: Overload:ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel
+  isSpec: "True"
+  fullName: ProjectoFinal___FP.ProdutoProcessado.VerificarLipidosSaudavel
+  nameWithType: ProdutoProcessado.VerificarLipidosSaudavel
 - uid: ProjectoFinal___FP.ProdutoProcessado.VerificarProdutoSaudavel
   name: VerificarProdutoSaudavel()
   href: api/ProjectoFinal___FP.ProdutoProcessado.html#ProjectoFinal___FP_ProdutoProcessado_VerificarProdutoSaudavel
